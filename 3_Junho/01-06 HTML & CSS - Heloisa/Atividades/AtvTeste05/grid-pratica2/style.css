@@ -1,0 +1,58 @@
+body {
+    width: 90%;
+    height: 800px;
+    margin: 5vh auto;
+    gap: 5px;
+
+    display: grid;
+    grid-template-areas:
+    'hd hd hd hd hd'
+    'nv nv nv nv nv'
+    'a2 sc sc sc as'
+    'a2 sc sc sc as'
+    'ft ft ft ft ft';
+    
+    grid-template-rows: 20% 10% 25% 25% 20%;
+    grid-template-columns: 10% 25% 30% 15% 20% ;
+}
+
+header {
+    grid-area: hd;
+    background-color: rgb(255, 0, 0);
+}
+
+nav{
+    grid-area: nv;
+    background-color: rgb(167, 37, 37);
+}
+
+section{
+    grid-area: sc;
+    background-color: rgb(219, 112, 147);
+}
+
+aside{
+    grid-area: as;
+    background-color: rgb(170, 157, 99);
+}
+
+.aside2{
+    grid-area: a2;
+    background-color: rgb(246, 145, 145);
+}
+
+footer{
+    grid-area: ft;
+    background-color: rgb(246, 145, 145);
+
+    display: grid;
+    grid-template-columns: 50% 25% 25%;
+}
+
+.roxo{
+    background-color: blueviolet;
+    margin: 5px;
+}
+
+
+

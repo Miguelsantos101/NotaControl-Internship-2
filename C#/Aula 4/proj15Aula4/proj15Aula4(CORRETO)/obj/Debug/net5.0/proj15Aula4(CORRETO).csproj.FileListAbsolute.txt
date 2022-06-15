@@ -1,0 +1,16 @@
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\bin\Debug\net5.0\proj15Aula4(CORRETO).exe
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\bin\Debug\net5.0\proj15Aula4(CORRETO).deps.json
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\bin\Debug\net5.0\proj15Aula4(CORRETO).runtimeconfig.json
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\bin\Debug\net5.0\proj15Aula4(CORRETO).runtimeconfig.dev.json
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\bin\Debug\net5.0\proj15Aula4(CORRETO).dll
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\bin\Debug\net5.0\ref\proj15Aula4(CORRETO).dll
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\bin\Debug\net5.0\proj15Aula4(CORRETO).pdb
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\obj\Debug\net5.0\proj15Aula4(CORRETO).csproj.AssemblyReference.cache
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\obj\Debug\net5.0\proj15Aula4(CORRETO).GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\obj\Debug\net5.0\proj15Aula4(CORRETO).AssemblyInfoInputs.cache
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\obj\Debug\net5.0\proj15Aula4(CORRETO).AssemblyInfo.cs
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\obj\Debug\net5.0\proj15Aula4(CORRETO).csproj.CoreCompileInputs.cache
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\obj\Debug\net5.0\proj15Aula4(CORRETO).dll
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\obj\Debug\net5.0\ref\proj15Aula4(CORRETO).dll
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\obj\Debug\net5.0\proj15Aula4(CORRETO).pdb
+C:\Dev_T2\proj15Aula4(CORRETO)\proj15Aula4(CORRETO)\obj\Debug\net5.0\proj15Aula4(CORRETO).genruntimeconfig.cache

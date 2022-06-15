@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ConsultarLoteRpsEnvio xmlns="http://www.issnetonline.com.br/webserviceabrasf/vsd/servico_consultar_lote_rps_envio.xsd" xmlns:ts="http://www.issnetonline.com.br/webserviceabrasf/vsd/tipos_simples.xsd" xmlns:tc="http://www.issnetonline.com.br/webserviceabrasf/vsd/tipos_complexos.xsd">
+  <Prestador>
+    <tc:CpfCnpj>
+      <tc:Cnpj>24004031379145</tc:Cnpj>
+    </tc:CpfCnpj>
+    <tc:InscricaoMunicipal>261100</tc:InscricaoMunicipal>
+  </Prestador>
+  <Protocolo>f2986ffc-fb7b-41a6-9643-046ac08d3d1c</Protocolo>
+</ConsultarLoteRpsEnvio>

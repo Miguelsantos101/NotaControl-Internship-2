@@ -1,0 +1,135 @@
+.homeLogin{
+    display: flex;
+    position: fixed;
+    border-radius: 25px;
+    box-shadow: 3px 5px 5px #969494;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    z-index: 100;
+}
+
+.homeLogin .container{
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+
+.homeLogin .img{
+    align-self: center;
+    margin: 20px;
+    width: 400px;
+    height: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+.homeLogin-titulo{
+    margin: 10px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.homeLogin-forms{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.homeLogin-forms-usuario{
+    display: flex;
+    flex-direction: column;
+}
+
+.homeLogin-forms-icon{
+    width: 20px;
+}
+
+/* .homeLogin-forms-senha{
+} */
+
+.homeLogin-forms-button{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.homeLogin-links{
+    text-align: center;
+    font-size: 75%;
+    font-family: sans-serif;
+}
+
+/* .homeLogin-links-register{
+
+} */
+
+.homeLogin-links-forgot{
+    color: rgba(0, 0, 0, 0.80);
+}

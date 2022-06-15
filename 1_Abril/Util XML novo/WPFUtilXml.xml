@@ -1,0 +1,216 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WPFUtilXml
+</name>
+</assembly>
+<members>
+<member name="M:WPFUtilXml.Application.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="M:WPFUtilXml.Application.Main">
+	<summary>
+Application Entry Point.
+</summary>
+</member><member name="T:WPFUtilXml.Application">
+	<summary>
+Application
+</summary>
+</member><member name="M:WPFUtilXml.MainWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WPFUtilXml.MainWindow">
+	<summary>
+MainWindow
+</summary>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.#ctor">
+	<remarks/>
+</member><member name="E:WPFUtilXml.wsAbrasf.Servicos.RecepcionarLoteRpsCompleted">
+	<remarks/>
+</member><member name="E:WPFUtilXml.wsAbrasf.Servicos.ConsultaSituacaoLoteRPSCompleted">
+	<remarks/>
+</member><member name="E:WPFUtilXml.wsAbrasf.Servicos.ConsultarSituacaoLoteRPSCompleted">
+	<remarks/>
+</member><member name="E:WPFUtilXml.wsAbrasf.Servicos.ConsultaNFSePorRPSCompleted">
+	<remarks/>
+</member><member name="E:WPFUtilXml.wsAbrasf.Servicos.ConsultarNFSePorRPSCompleted">
+	<remarks/>
+</member><member name="E:WPFUtilXml.wsAbrasf.Servicos.ConsultarLoteRpsCompleted">
+	<remarks/>
+</member><member name="E:WPFUtilXml.wsAbrasf.Servicos.ConsultarNfseCompleted">
+	<remarks/>
+</member><member name="E:WPFUtilXml.wsAbrasf.Servicos.ConsultarUrlVisualizacaoNfseCompleted">
+	<remarks/>
+</member><member name="E:WPFUtilXml.wsAbrasf.Servicos.ConsultarUrlVisualizacaoNfseSerieCompleted">
+	<remarks/>
+</member><member name="E:WPFUtilXml.wsAbrasf.Servicos.CancelarNfseCompleted">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.RecepcionarLoteRps(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.RecepcionarLoteRpsAsync(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.RecepcionarLoteRpsAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultaSituacaoLoteRPS(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultaSituacaoLoteRPSAsync(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultaSituacaoLoteRPSAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarSituacaoLoteRPS(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarSituacaoLoteRPSAsync(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarSituacaoLoteRPSAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultaNFSePorRPS(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultaNFSePorRPSAsync(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultaNFSePorRPSAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarNFSePorRPS(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarNFSePorRPSAsync(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarNFSePorRPSAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarLoteRps(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarLoteRpsAsync(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarLoteRpsAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarNfse(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarNfseAsync(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarNfseAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarUrlVisualizacaoNfse(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarUrlVisualizacaoNfseAsync(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarUrlVisualizacaoNfseAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarUrlVisualizacaoNfseSerie(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarUrlVisualizacaoNfseSerieAsync(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.ConsultarUrlVisualizacaoNfseSerieAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.CancelarNfse(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.CancelarNfseAsync(System.String)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.CancelarNfseAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:WPFUtilXml.wsAbrasf.Servicos.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.Servicos">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.RecepcionarLoteRpsCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WPFUtilXml.wsAbrasf.RecepcionarLoteRpsCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.RecepcionarLoteRpsCompletedEventArgs">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultaSituacaoLoteRPSCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WPFUtilXml.wsAbrasf.ConsultaSituacaoLoteRPSCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultaSituacaoLoteRPSCompletedEventArgs">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultarSituacaoLoteRPSCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WPFUtilXml.wsAbrasf.ConsultarSituacaoLoteRPSCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultarSituacaoLoteRPSCompletedEventArgs">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultaNFSePorRPSCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WPFUtilXml.wsAbrasf.ConsultaNFSePorRPSCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultaNFSePorRPSCompletedEventArgs">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultarNFSePorRPSCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WPFUtilXml.wsAbrasf.ConsultarNFSePorRPSCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultarNFSePorRPSCompletedEventArgs">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultarLoteRpsCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WPFUtilXml.wsAbrasf.ConsultarLoteRpsCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultarLoteRpsCompletedEventArgs">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultarNfseCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WPFUtilXml.wsAbrasf.ConsultarNfseCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultarNfseCompletedEventArgs">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultarUrlVisualizacaoNfseCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WPFUtilXml.wsAbrasf.ConsultarUrlVisualizacaoNfseCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultarUrlVisualizacaoNfseCompletedEventArgs">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultarUrlVisualizacaoNfseSerieCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WPFUtilXml.wsAbrasf.ConsultarUrlVisualizacaoNfseSerieCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.ConsultarUrlVisualizacaoNfseSerieCompletedEventArgs">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.CancelarNfseCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WPFUtilXml.wsAbrasf.CancelarNfseCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WPFUtilXml.wsAbrasf.CancelarNfseCompletedEventArgs">
+	<remarks/>
+</member><member name="P:WPFUtilXml.My.MyWpfExtension.Application">
+	<summary>
+ Returns the application object for the running application
+ </summary>
+</member><member name="P:WPFUtilXml.My.MyWpfExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:WPFUtilXml.My.MyWpfExtension.User">
+	<summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member><member name="P:WPFUtilXml.My.MyWpfExtension.Log">
+	<summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member><member name="P:WPFUtilXml.My.MyWpfExtension.Windows">
+	<summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member><member name="T:WPFUtilXml.My.MyWpfExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+	<remarks></remarks>
+</member><member name="P:WPFUtilXml.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WPFUtilXml.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WPFUtilXml.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

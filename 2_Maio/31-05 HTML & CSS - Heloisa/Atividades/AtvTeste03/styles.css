@@ -1,0 +1,37 @@
+.body{
+    background-image: url("./assets/petpawns.png");
+    text-align: center;
+    margin: 25px;
+}
+
+
+.main{
+    font-family: 'Trebuchet MS', cursive;
+    background-color: rgba(127, 238, 229, 0.97);
+    border-style: dashed;
+    border-color: rgb(53, 170, 160);
+    border-radius: 20px;
+}
+
+
+.header{
+    text-align: center;
+    height: 75px;
+}
+
+
+.nav{
+    color: rgb(53, 170, 160);
+    
+}
+
+
+.section{
+    background-color: rgb(240, 248, 255);
+}
+
+
+.footer{
+    margin: 20px;
+}
+

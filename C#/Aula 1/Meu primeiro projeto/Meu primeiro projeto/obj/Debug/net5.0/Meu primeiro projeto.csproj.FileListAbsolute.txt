@@ -1,0 +1,16 @@
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\bin\Debug\net5.0\Meu primeiro projeto.exe
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\bin\Debug\net5.0\Meu primeiro projeto.deps.json
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\bin\Debug\net5.0\Meu primeiro projeto.runtimeconfig.json
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\bin\Debug\net5.0\Meu primeiro projeto.runtimeconfig.dev.json
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\bin\Debug\net5.0\Meu primeiro projeto.dll
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\bin\Debug\net5.0\ref\Meu primeiro projeto.dll
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\bin\Debug\net5.0\Meu primeiro projeto.pdb
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.csproj.AssemblyReference.cache
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.AssemblyInfoInputs.cache
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.AssemblyInfo.cs
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.csproj.CoreCompileInputs.cache
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.dll
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\obj\Debug\net5.0\ref\Meu primeiro projeto.dll
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.pdb
+C:\Dev_T2\Meu primeiro projeto\Meu primeiro projeto\obj\Debug\net5.0\Meu primeiro projeto.genruntimeconfig.cache
